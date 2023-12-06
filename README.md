@@ -1,4 +1,4 @@
-# notes_keeper_app
+# QuickNote
 
 A new Flutter project.
 
